@@ -1,0 +1,119 @@
+Operator is 277 and from and to is:
+
+http://www.flygbussarna.se/arlanda
+[
+	{"lat":"59.651400", "long":"17.933740", "hpl":"Arlanda", "text":""},
+	{"lat":"59.616380", "long":"17.900110", "hpl":"", "text":""},
+	{"lat":"59.518648", "long":"17.925173", "hpl":"", "text":""},
+	{"lat":"59.378282", "long":"18.013409", "hpl":"Järva Krog", "text":""},
+	{"lat":"59.372134", "long":"18.020100", "hpl":"Frösunda", "text":""},
+	{"lat":"59.362540", "long":"18.026142", "hpl":"Haga Norra", "text":""},
+	{"lat":"59.354040", "long":"18.036980", "hpl":"Haga Södra (end. avstign)", "text":""},
+	{"lat":"59.348390", "long":"18.041253", "hpl":"Norra Stationsgatan", "text":""},
+	{"lat":"59.339567", "long":"18.039461", "hpl":"Sankt Eriksplan", "text":""},
+	{"lat":"59.331698", "long":"18.055270", "hpl":"City", "text":""}
+]
+
+[
+	{"lat":"59.651400", "long":"17.933740", "hpl":"Arlanda", "text":""},
+	{"lat":"59.27631", "long":"18.01227", "hpl":"Stockholmsmässan", "text":""}
+]
+
+[
+	{"lat":"59.651400", "long":"17.933740", "hpl":"Arlanda", "text":""},
+	{"lat":"59.35315", "long":"18.03177", "hpl":"Karolinska Sjukhuset", "text":""},
+	{"lat":"59.34785", "long":"18.03035", "hpl":"Karolinska Institutet", "text":""},
+	{"lat":"59.34563", "long":"18.03412", "hpl":"Torsplan", "text":""},
+	{"lat":"59.33193", "long":"18.02998", "hpl":"Fridhemsplan", "text":""},
+	{"lat":"59.32839", "long":"18.02214", "hpl":"Västerbroplan", "text":""},
+	{"lat":"59.31599", "long":"18.03400", "hpl":"Hornstull", "text":""},
+	{"lat":"59.31027", "long":"18.02530", "hpl":"Liljeholmen", "text":""}
+]
+
+http://www.flygbussarna.se/bromma
+[
+	{"lat":"59.356114", "long":"17.946459", "hpl":"Bromma Airport", "text":""},
+	{"lat":"59.33193", "long":"18.02998", "hpl":"Fridhemsplan", "text":""},
+	{"lat":"59.331698", "long":"18.055270", "hpl":"Cityterminalen", "text":""}
+]
+
+http://www.flygbussarna.se/goteborg-city
+[
+	{"lat":"57.709793", "long":"11.972275", "hpl":"Nils Eriksson terminalen", "text":""},
+	{"lat":"57.777643", "long":"11.864422", "hpl":"Göteborg City Airport", "text":""}
+]
+
+http://www.flygbussarna.se/landvetter
+[
+	{"lat":"57.709793", "long":"11.972275", "hpl":"Nils Ericson Terminalen", "text":""},    
+	{"lat":"57.703874", "long":"11.969729", "hpl":"Kungsportsplatsen", "text":""},           
+	{"lat":"57.698245", "long":"11.977946", "hpl":"Park Avenue", "text":""},      
+	{"lat":"57.696844", "long":"11.986873", "hpl":"Korsvägen / Svenska Mässan", "text":""},  
+	{"lat":"57.668900", "long":"12.296900", "hpl":"Göteborg Landvetter Airport", "text":""}
+]
+
+http://www.flygbussarna.se/malmo
+[              
+	{"lat":"55.607806", "long":"13.000000", "hpl":"Malmö Centralstation", "text":""},                           
+	{"lat":"55.603000", "long":"13.004833", "hpl":"Studentgatan", "text":""},                 
+	{"lat":"55.598944", "long":"13.007889", "hpl":"Konserthuset", "text":""},                 
+	{"lat":"55.59491", "long":"13.00017", "hpl":"Triangeln", "text":""},                    
+	{"lat":"55.587945", "long":"13.009113", "hpl":"Södervärn", "text":""},                   
+	{"lat":"55.580500", "long":"13.028778", "hpl":"Persborg", "text":""},                     
+	{"lat":"55.570667", "long":"13.059250", "hpl":"Jägersro Center", "text":""},  
+	{"lat":"55.519361", "long":"13.239639", "hpl":"Svedala E65", "text":""},            
+	{"lat":"55.540778", "long":"13.364028", "hpl":"Malmö Airport", "text":""}                    
+]
+
+http://www.flygbussarna.se/malmo
+[
+	{"lat":"55.715833", "long":"13.228750", "hpl":"Höjdpunkten", "text":""},                  
+	{"lat":"55.715500", "long":"13.214583", "hpl":"Ideon Gammahuset", "text":""},             
+	{"lat":"55.713222", "long":"13.196972", "hpl":"Universitetssjukhuset i Lund", "text":""}, 
+	{"lat":"55.712611", "long":"13.208444", "hpl":"LTH", "text":""},                          
+	{"lat":"55.707083", "long":"13.187000", "hpl":"Lunds Centralstation", "text":""},         
+	{"lat":"55.644861", "long":"13.230972", "hpl":"Staffanstorp", "text":""},                 
+	{"lat":"55.540778", "long":"13.364028", "hpl":"Malmö Airport", "text":""}               
+]
+
+http://www.flygbussarna.se/skavsta
+[
+	{"lat":"59.331698", "long":"18.055270", "hpl":"Stockholm City Cityterminalen ", "text":""},   
+	{"lat":"58.784197", "long":"16.921764", "hpl":"Stockholm Skavsta Airport", "text":""}        
+]
+
+http://www.flygbussarna.se/skavsta
+[                  
+	{"lat":"58.784197", "long":"16.921764", "hpl":"Stockholm Skavsta Airport", "text":""},        
+	{"lat":"58.59678", "long":"16.187915", "hpl":"Norrköping", "text":""},                       
+	{"lat":"58.417888", "long":"15.621706 ", "hpl":"Linköping", "text":""}                      
+]
+
+http://www.flygbussarna.se/visby
+[
+	{"lat":"57.6608", "long":"18.3384", "hpl":"Visby Airport", "text":""},          
+	{"lat":"57.63791", "long":"18.29991", "hpl":"Östercentrum", "text":""}, 
+	{"lat":"57.635558", "long":"18.295702", "hpl":"Visby Busstation", "text":""},
+	{"lat":"57.631813", "long":"18.279487", "hpl":"Visby Hamnhotell", "text":""},
+	{"lat":"57.63946", "long":"18.28699", "hpl":"Visby Hamn", "text":""}
+]
+
+http://www.flygbussarna.se/vasteras
+[
+	{"lat":"59.601951", "long":"16.628068", "hpl":"Västerås Airport", "text":""},             
+	{"lat":"59.331698", "long":"18.055270", "hpl":"Stockholm City Cityterminalen ", "text":""}
+]
+
+http://www.flygbussarna.se/destination-gotland
+[
+	{"lat":"59.331698", "long":"18.055270", "hpl":"Cityterminalen", "text":""},
+	{"lat":"58.901285", "long":"17.952583", "hpl":"Nyn&auml;shamn", "text":""}
+]
+
+http://www.flygbussarna.se/viking-line
+[
+	{"lat":"59.331698", "long":"18.055270", "hpl":"Cityterminalen", "text":""},
+	{"lat":"59.315820", "long":"18.097480", "hpl":"Stadsg&aring;rden", "text":""},
+	{"lat":"59.324000", "long":"18.100300", "hpl":"Djurg&aring;rden", "text":""}
+]
+
